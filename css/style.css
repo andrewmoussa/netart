@@ -1,0 +1,33 @@
+body {
+  max-width: 1000px;
+  margin: auto;
+  background-color: lightgreen;
+  text-align: center;
+  background-position: center;
+  background-image: url("/images/bigseal.png");
+}
+h1 {
+  color: orange;
+  font-size: 20pt;
+}
+p{
+  color: violet;
+  font-size: 19pt;
+}
+h2{
+  color: red;
+}
+h3 {
+  color: purple;
+  font-size: 25pt;
+}
+#one {
+  background-color: blue;
+}
+#two {
+  background-color: pink;
+  clear: both;
+}
+.red-text {
+  color: darkred;
+}
